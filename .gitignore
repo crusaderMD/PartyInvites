@@ -1,0 +1,14 @@
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+*.log
+*.tmp
+*.bak
+*.nupkg
+*.snupkg
+.vscode/
+.idea/
+*.db
+*.sqlite
